@@ -8,4 +8,5 @@
 - `pip3 install streamlit streamlit-chat`
 
 ## 実行方法
-- `python3 -m streamlit run main.py`
+- `export GROQ_API_KEY="your-api-key-here"`
+- `python3 -m streamlit run chat.py`
